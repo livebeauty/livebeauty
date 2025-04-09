@@ -7,24 +7,24 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 ## 🚀 Tech Stack
 
 ### Frontend:
-![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
-![Next.js](https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000)
-![TailwindCSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="30" />
 
 ### Backend & Tools:
-![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=flat)
-![Sanity](https://img.shields.io/badge/-Sanity-FF0F00?logo=sanity&logoColor=white&style=flat)
+<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="30" />
+<img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" width="30" />
+<img src="https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat" />
+<img src="https://img.icons8.com/?size=100&id=iouv9vHfqHvP&format=png&color=000000" width="30" />
+<img src="https://github.com/user-attachments/assets/e1343af2-0680-4e7d-9f5e-8ef3d7da0a4e" width="30" />
 
 ### Deployment & Version Control:
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" />
 
 ---
 
@@ -43,11 +43,10 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 - 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - 📧 **Email**: your-email@example.com  
 
-*(Replace the above with your actual links)*
+> *(Replace the above with your actual links)*
 
 ---
 
 ## ⚡ Fun Fact
 
 I turn caffeine ☕ into clean code 💻 and love experimenting with UI animations!
-
