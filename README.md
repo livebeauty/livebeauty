@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Suryansh Chaudhary
 
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2cHljaXVndms0am1xa3BpMzJsdzd0azM3Ymd4eHVzYmxneng3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif
+
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
 I'm a passionate full stack developer who loves building scalable web apps, designing intuitive UIs, and crafting clean, maintainable code. Whether it's the frontend flair or the backend logic — I enjoy working across the stack to bring ideas to life.
