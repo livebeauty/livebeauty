@@ -52,10 +52,12 @@ Some of my proudest builds:
    - **Tech**: React, Next.js, Tailwind CSS, Node.js, Stripe, Firebase,, NextAuth,
    - [Repo](https://github.com/livebeauty/amazon) | [Live Demo](https://amazon-bay-beta.vercel.app/)
 
-2. **[Project Name 2]**  
-   - Description: [e.g., "A task manager with real-time updates"]  
-   - Tech: [JavaScript, Express, MongoDB]  
-   - [Repo](#) | [Live Demo](#)
+2. **[Food Delivery App]**  
+   - **Description**: A modern mobile food delivery app built for Android using React Native and Expo. It features real-time restaurant listings, dynamic menus, cart functionality, and 
+       seamless order tracking. Sanity is used as a headless CMS for managing restaurant and product data.  
+   - **Tech**: React Native, Expo, Sanity.io, JavaScript, Tailwind CSS  
+   - [Repo](https://github.com/livebeauty/Delivery-app) | [You have install expo app in your phone]
+
 
 *(Add your real projects here!)*
 
