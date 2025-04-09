@@ -13,10 +13,9 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 ![React](https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000)
 ![Next.js](https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000)
 ![TailwindCSS](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)
-![GSAP](https://gsap.com/community/uploads/monthly_2020_03/tweenmax.thumb.png.c849c5b56c6752e3f2276b82ee702625.png)
 
 ### Backend & Tools:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)
