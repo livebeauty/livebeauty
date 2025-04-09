@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Suryansh – Full Stack Developer from India 🇮🇳
+# 👋 Hi, I'm Suryansh – Full Stack Developer from India <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="50" alt="India Flag" style="vertical-align:middle;"/>
 
 I’m a passionate full stack developer who loves crafting innovative applications and building seamless digital experiences. I'm always curious, constantly learning, and pushing myself to grow deeper into the world of tech.
 
