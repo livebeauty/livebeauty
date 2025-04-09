@@ -1,80 +1,54 @@
-# Hey There! I’m Suryansh 👋  
-### A Full-Stack Developer from India <img alt="India" src="https://cdn.pixabay.com/photo/2022/08/22/12/19/flag-7403565_1280.png" width="30" />
+# 👋 Hi, I'm Suryansh – Full Stack Developer from India 🇮🇳
 
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJpN3MxcTM3eDh5bThlbnloNHkxam9rZnRjb2s4ZnYycmpqYnNkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif)  
-
-I’m a passionate **Full-Stack Developer** with **3 years of self-taught experience**, ready to dive into real-world projects. I thrive on building seamless, scalable web applications and love turning ideas into code. As a fresher, I’m eager to collaborate, learn, and create impactful solutions!
+I’m a passionate full stack developer who loves crafting innovative applications and building seamless digital experiences. I'm always curious, constantly learning, and pushing myself to grow deeper into the world of tech.
 
 ---
 
-## 🌟 About Me  
-- **Currently Learning**: Now I learning Generative AI LLM model bascically try to SAAS website.  
-- **Experience**: 3 years of grinding through web dev like a coding ninja.  
-- **Goal**: To craft innovative apps and grow into a tech rockstar.  
-- **Fun Fact**: I debug faster than you can say *"One Punch Man!"*
+## 🚀 Tech Stack
+
+### Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=flat)
+
+### Backend & Tools:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white&style=flat)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=flat)
+![Sanity](https://img.shields.io/badge/-Sanity-FF0F00?logo=sanity&logoColor=white&style=flat)
+
+### Deployment & Version Control:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ---
 
-## 🛠️ My Skill Set  
+## 🌱 About Me
 
-### 🚀 Frontend  
-| Skill        | GIF Icon |
-|--------------|----------|
-| HTML5        | ![HTML](https://media.giphy.com/media/xUPGcguWZHRCy1fmW4/giphy.gif) |
-| CSS3         | ![CSS](https://media.giphy.com/media/26FPCXdkMJiS2lLxC/giphy.gif) |
-| JavaScript   | ![JS](https://media.giphy.com/media/ln7zZEiL2zM2WRx3oO/giphy.gif) |
-| React.js     | ![React](https://media.giphy.com/media/eNAsjO55tPb5SdWYFz/giphy.gif) |
-| Tailwind CSS | ![Tailwind](https://media.giphy.com/media/3o7TKUSYwxzFOJvvHy/giphy.gif) |
-
-### 🔧 Backend  
-| Skill      | GIF Icon |
-|------------|----------|
-| Node.js    | ![Node](https://media.giphy.com/media/3o7TKz2B8xWn5hM9qg/giphy.gif) |
-| Express.js | ![Express](https://media.giphy.com/media/ln7zZEiL2zM2WRx3oO/giphy.gif) |
-| MongoDB    | ![MongoDB](https://media.giphy.com/media/3o7TKz2B8xWn5hM9qg/giphy.gif) |
-| MySQL      | ![MySQL](https://media.giphy.com/media/ln7zZEiL2zM2WRx3oO/giphy.gif) |
-
-### 🧰 Tools  
-| Tool     | GIF Icon |
-|----------|----------|
-| Git      | ![Git](https://media.giphy.com/media/ln7zZEiL2zM2WRx3oO/giphy.gif) |
-| GitHub   | ![GitHub](https://media.giphy.com/media/3o7TKz2B8xWn5hM9qg/giphy.gif) |
-| VS Code  | ![VSCode](https://media.giphy.com/media/3o7TKUSYwxzFOJvvHy/giphy.gif) |
+- 🔭 Currently working on modern full stack web applications  
+- 💡 Exploring advanced animation & real-time features  
+- 🤝 Always up for open source collaboration and freelance opportunities  
+- 🎯 Goal: To build scalable apps and grow into a tech leader  
 
 ---
 
-## 🚀 Projects  
-Some of my proudest builds:
+## 📫 Connect with Me
 
-1. **[Project Name 1]**  
-   - 💡 Description: *A dynamic portfolio site with smooth transitions*  
-   - 🛠 Tech: React, Tailwind, Node.js  
-   - 🔗 [Repo](#) | 🌍 [Live Demo](#)
+- 🌐 **Portfolio**: [Your Website](https://your-portfolio.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 📧 **Email**: your-email@example.com  
 
-2. **[Project Name 2]**  
-   - 💡 Description: *A task manager with real-time updates*  
-   - 🛠 Tech: JavaScript, Express, MongoDB  
-   - 🔗 [Repo](#) | 🌍 [Live Demo](#)
-
-> *(Don't forget to add your real projects above!)*
+*(Replace the above with your actual links)*
 
 ---
 
-## 📬 Let’s Connect  
+## ⚡ Fun Fact
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-- 🐦 X (Twitter): [Your X Handle](https://x.com/your-handle)  
-- 🌐 Portfolio: [Your Portfolio](#)  
-
----
-
-## 📊 GitHub Stats  
-![Suryansh's Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dracula)
-
----
-
-![Goodbye GIF](https://media.giphy.com/media/3o6Zt6ML6B2DWCfVZK/giphy.gif)  
-**Thanks for stopping by! Let’s build something awesome together!** 🚀
+I turn caffeine ☕ into clean code 💻 and love experimenting with UI animations!
 
