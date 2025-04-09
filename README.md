@@ -8,7 +8,7 @@ I’m a passionate **Full-Stack Developer** with **3 years of self-taught experi
 ---
 
 ## 🌟 About Me  
-- **Currently Learning**: Advanced JS frameworks, cloud tech, and sleek UI/UX.  
+- **Currently Learning**: Now I learning Generative AI LLM model bascically try to SAAS website.  
 - **Experience**: 3 years of grinding through web dev like a coding ninja.  
 - **Goal**: To craft innovative apps and grow into a tech rockstar.  
 - **Fun Fact**: I debug faster than you can say *"One Punch Man!"*
