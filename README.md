@@ -65,17 +65,12 @@ Some of my proudest builds:
    - [Repo](https://github.com/livebeauty/Whatsapp-clone) | [Live Demo](https://live-chat-app-jet.vercel.app/)
 
 
-*(Add your real projects here!)*
-
 ## 📫 Connect with Me
 
 - 🌐 **Portfolio**: [Your Website](https://your-portfolio.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 📧 **Email**: your-email@example.com  
+- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/suryansh-chaudhary-9b9b611ba)  
+- 📧 **Email**: livebeauty9@gmail.com  
 
-> *(Replace the above with your actual links)*
-
----
 
 ## ⚡ Fun Fact
 
