@@ -6,7 +6,7 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 
 ## ✨ Mood Before the Code
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYxbnVqMXdjbGxsdnhmc2R2OTgxNmZzZnExaTRvOTVqZ3hvNHU5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPqYy2YajMoVglXq0e/giphy.gif" width="250" alt="Coding Anime GIF"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYxbnVqMXdjbGxsdnhmc2R2OTgxNmZzZnExaTRvOTVqZ3hvNHU5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JPqYy2YajMoVglXq0e/giphy.gif" width="500" alt="Coding Anime GIF"/>
 </p>
 
 ---
