@@ -58,6 +58,12 @@ Some of my proudest builds:
    - **Tech**: React Native, Expo, Sanity.io, JavaScript, Tailwind CSS  
    - [Repo](https://github.com/livebeauty/Delivery-app) | [You have install expo app in your phone]
 
+3. **[Real-Time Chat App]**  
+   - **Description**: A modern mobile food delivery app built for Android using React Native and Expo. It features real-time restaurant listings, dynamic menus, cart functionality, and 
+       seamless order tracking. Sanity is used as a headless CMS for managing restaurant and product data.  
+   - **Tech**: React Native, Expo, Sanity.io, JavaScript, Tailwind CSS  
+   - [Repo](https://github.com/livebeauty/Whatsapp-clone) | [https://live-chat-app-jet.vercel.app/]   
+
 
 *(Add your real projects here!)*
 
