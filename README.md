@@ -74,7 +74,7 @@ Some of my proudest builds:
 ## 📫 Connect with Me
 
 - 🌐 **Portfolio**: [Your Website](https://your-portfolio.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/suryansh-chaudhary-9b9b611ba)  
+- 💼 **LinkedIn**: [Suryansh Chaudhary](https://www.linkedin.com/in/suryansh-chaudhary-9b9b611ba)  
 - 📧 **Email**: livebeauty9@gmail.com  
 
 
