@@ -43,6 +43,22 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 
 ---
 
+## 🚀 Projects  
+Some of my proudest builds:
+
+1. **[Amazon Clone Project]**  
+   - **Description**: A full-stack e-commerce web application inspired by Amazon. It includes real-time authentication, dynamic product listing, secure checkout with Stripe, state- 
+      managed cart system, and serverless functions for order handling. Built using modern web technologies and optimized for performance with Next.js.
+   - **Tech**: React, Next.js, Tailwind CSS, Node.js, Stripe, Firebase,, NextAuth,
+   - [Repo](https://github.com/livebeauty/amazon) | [Live Demo](https://amazon-bay-beta.vercel.app/)
+
+2. **[Project Name 2]**  
+   - Description: [e.g., "A task manager with real-time updates"]  
+   - Tech: [JavaScript, Express, MongoDB]  
+   - [Repo](#) | [Live Demo](#)
+
+*(Add your real projects here!)*
+
 ## 📫 Connect with Me
 
 - 🌐 **Portfolio**: [Your Website](https://your-portfolio.com)  
