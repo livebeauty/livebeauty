@@ -1,5 +1,5 @@
 # Hey There! I’m Suryansh 👋  
-### A Full-Stack Developer from India 🇮🇳  
+### A Full-Stack Developer from India <img alt="India" src="https://cdn.pixabay.com/photo/2022/08/22/12/19/flag-7403565_1280.png" width="200>
 
 ![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd0MnlsYWxkYzh2aWx6dm5qYmU4dHBtM201YzU1aXVyeWFkOGNrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QexWWszyJE1CG3MSqq/giphy.gif)  
 
