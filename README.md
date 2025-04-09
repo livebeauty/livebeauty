@@ -1,6 +1,6 @@
 I’m a **Full-Stack Developer** from India 🇮🇳, ready to code my way through epic challenges!
 
-# Konnichiwa! I’m Suryansh! 👋
+# Konnichiwa! I’m Suryansh! 👋 I’m a **Full-Stack Developer** from India 
 
 ![Anime Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd0MnlsYWxkYzh2aWx6dm5qYmU4dHBtM201YzU1aXVyeWFkOGNrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QexWWszyJE1CG3MSqq/giphy.gif)
 
