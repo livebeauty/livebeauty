@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Suryansh Chaudhary
 
+<div align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2cHljaXVndms0am1xa3BpMzJsdzd0azM3Ymd4eHVzYmxneng3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif" width="400"/>
+</div>
+
 https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzN2cHljaXVndms0am1xa3BpMzJsdzd0azM3Ymd4eHVzYmxneng3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J6JazAkCVLId91L4yM/giphy.gif
 
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
