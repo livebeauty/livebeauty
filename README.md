@@ -36,10 +36,10 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 
 ## 🌱 About Me
 
-- 🔭 Currently working on modern full stack web applications  
-- 💡 Exploring advanced animation & real-time features  
-- 🤝 Always up for open source collaboration and freelance opportunities  
-- 🎯 Goal: To build scalable apps and grow into a tech leader  
+- **Currently Learning**: LLMs, generative AI, and building SaaS applications. 
+- **Experience**: 3 years of grinding through web dev like a coding ninja.  
+- **Goal**: To craft innovative apps and grow into a tech rockstar.  
+- **Fun Fact**: I debug faster than you can say "One Punch Man!"
 
 ---
 
