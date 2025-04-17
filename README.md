@@ -11,6 +11,7 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 
 ---
 ## 🚀 Tech Stack
+![image](https://github.com/user-attachments/assets/de758647-0dac-4da0-bc8b-221ed62ebd11)
 
 ### 🖥️ Frontend:
 <p>
@@ -20,6 +21,7 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="40" alt="React"/>
   <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="40" alt="Next.js"/>
   <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="40" alt="TailwindCSS"/>
+  <img src="https://github.com/user-attachments/assets/de758647-0dac-4da0-bc8b-221ed62ebd11" width="40" alt="TypeScript"/>
 </p>
 
 ### 🛠️ Backend & Tools:
