@@ -11,7 +11,6 @@ I’m a passionate full stack developer who loves crafting innovative applicatio
 
 ---
 ## 🚀 Tech Stack
-![image](https://github.com/user-attachments/assets/de758647-0dac-4da0-bc8b-221ed62ebd11)
 
 ### 🖥️ Frontend:
 <p>
